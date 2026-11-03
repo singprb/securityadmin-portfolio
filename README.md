@@ -33,6 +33,7 @@ This portfolio highlights selected security initiatives and technical projects t
 - Coordinated deployments with technical personnel and department administrators.
 - Developed supporting procedures and documentation.
 
+##
 
 ### 2. Local Administrator Privilege Remediation
 
@@ -44,6 +45,7 @@ This portfolio highlights selected security initiatives and technical projects t
 - Developed administrative auditing workflows.
 - Coordinated operational exceptions and support procedures.
 
+##
 
 ### 3. Cybersecurity Incident Response Plan (CIRP) Development & Modernization
 
@@ -54,6 +56,7 @@ This portfolio highlights selected security initiatives and technical projects t
 - Collaborated with Emergency Management and organizational stakesholders to establish response responsbilities and escalation procedures.
 - Defined incident severity classifications, response phases, and communication procedures to standardize incident handling.
 
+##
 
 ### 4. Security Monitoring & Incident Response
 
@@ -65,6 +68,7 @@ This portfolio highlights selected security initiatives and technical projects t
 - Established after-action review processes.
 - Worked with technical teams on investigation and remediation.
 
+##
 
 ### 5. Enterprise Server Endpoint Security Deployment
 
@@ -76,6 +80,7 @@ This portfolio highlights selected security initiatives and technical projects t
 - Coordinated several weeks of compatibility and stability testing before production deployment.
 - Integrated endpoint protection into the standard server onboarding process to ensure continued security coverage for newly provisioned systems.
 
+##
 
 ### 6. Vulnerability Management
 
@@ -87,8 +92,9 @@ This portfolio highlights selected security initiatives and technical projects t
 - Developed methods for organizing remediation efforts.
 - Communicated security risks and priorities to stakeholders.
 
+##
 
-## Technical Experience
+### Technical Experience
 
 **Security:** Duo MFA, ESET Protect, Arctic Wolf MDR, Microsoft Entra ID
 
