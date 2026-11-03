@@ -5,7 +5,7 @@ My professional cyber initiatives, security administration experience, and techn
 
 Information Security professional with over 10 years of experience in the technology sector, 5 of those years include enterprise systems administration, cybersecurity operations, identity and access management, and security risk mitigation.
 
-My professional experience includes implementing security controls, improving organizational security posture, supporting incident investigations, and collaborating with technical teams and leadership to ensure security is not just an after-thought. I have also participated in the front-lines 
+My professional experience includes implementing security controls, improving organizational security posture, supporting incident investigations, and collaborating with technical teams and leadership to ensure security is not just an after-thought.
 
 This portfolio highlights selected security initiatives and technical projects through high-level case studies and projects that I've led or had a significant role in.
 
