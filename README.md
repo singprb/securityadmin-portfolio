@@ -1,7 +1,5 @@
-# Boone's Security and Administration Portfolio
-My professional cybersecurity projects, security administration experience, and technical case studies in the public sector.
-
-# Cybersecurity, Information Security, and Systems Administration Portfolio
+# Boone's Cybersecurity, Information Security, and Systems Administration Portfolio
+My professional initiatives, security administration experience, and technical examples while I've been in the public sector working for the local government.
 
 ## Professional Overview
 
