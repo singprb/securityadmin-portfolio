@@ -1,13 +1,13 @@
 # securityadmin-portfolio
-My professional cybersecurity projects, security administration experience, and technical case studies in the private and public sector.
+My professional cybersecurity projects, security administration experience, and technical case studies in the public sector.
 
 # Cybersecurity, Information Security, and Systems Administration Portfolio
 
 ## Professional Overview
 
-Information Security professional with over 10 years of experience in the technology sector, 5 of those years including enterprise systems administration, cybersecurity operations, identity and access management, and security risk mitigation.
+Information Security professional with over 10 years of experience in the technology sector, 5 of those years include enterprise systems administration, cybersecurity operations, identity and access management, and security risk mitigation.
 
-My professional experience includes implementing security controls, improving organizational security posture, supporting incident investigations, and collaborating with technical teams and leadership to ensure security is not an after-thought.
+My professional experience includes implementing security controls, improving organizational security posture, supporting incident investigations, and collaborating with technical teams and leadership to ensure security is not just an after-thought. I have also participated in the front-lines 
 
 This portfolio highlights selected security initiatives and technical projects through high-level case studies and projects that I've led or had a significant role in.
 
@@ -26,20 +26,19 @@ This portfolio highlights selected security initiatives and technical projects t
 
 ### 1. Enterprise Multi-Factor Authentication
 
-**Objective:** Strengthen authentication security across enterprise systems.
+**Objective:** Strengthen authentication security and control access across enterprise systems.
 
 **Contributions:**
-- Supported the implementation and administration of Duo MFA.
+- Supported the implementation and administration of Duo MFA across multiple departments in an organization.
 - Evaluated authentication workflows and recovery scenarios.
 - Tested hardware tokens and alternative authentication methods.
-- Coordinated deployments with technical personnel.
+- Coordinated deployments with technical personnel and department administrators.
 - Developed supporting procedures and documentation.
 
-**Skills:** IAM, Duo Security, Authentication Security, Enterprise Deployment
 
 ### 2. Local Administrator Privilege Remediation
 
-**Objective:** Reduce endpoint attack surfaces through least-privilege access practices.
+**Objective:** Reduce endpoint attack surfaces through least-privilege access practices on the workstations throughout the environment.
 
 **Contributions:**
 - Reviewed unnecessary local administrative privileges.
@@ -47,9 +46,18 @@ This portfolio highlights selected security initiatives and technical projects t
 - Developed administrative auditing workflows.
 - Coordinated operational exceptions and support procedures.
 
-**Skills:** Windows Security, Active Directory, Least Privilege, PowerShell
 
-### 3. Security Monitoring & Incident Response
+### 3. Cybersecurity Incident Response Plan (CIRP) Development & Modernization
+
+**Objective:** Modernize the organization's Cybersecurity Incident Response Plan to improve incident preparedness, response coordination, and recovery procedures.
+
+**Contributions:**
+- Developed and updated the organization-wide CIRP using NIST incident response guidance and cybersecurity best practices.
+- Collaborated with Emergency Management and organizational stakesholders to establish response responsbilities and escalation procedures.
+- Defined incident severity classifications, response phases, and communication procedures to standardize incident handling.
+
+
+### 4. Security Monitoring & Incident Response
 
 **Objective:** Improve security alert triage, response consistency, and documentation.
 
@@ -59,11 +67,21 @@ This portfolio highlights selected security initiatives and technical projects t
 - Established after-action review processes.
 - Worked with technical teams on investigation and remediation.
 
-**Skills:** Incident Response, MDR, Security Operations, Documentation
 
-### 4. Vulnerability Management
+### 5. Enterprise Server Endpoint Security Deployment
 
-**Objective:** Improve identification, assessment, and tracking of cybersecurity vulnerabilities.
+**Objective:** Strengthen enterprise server security by deploying standardized endpoint protection across the organization's infrastructure.
+
+**Contributions:**
+- Collaborated with multiple IT teams to plan, configure, test, and deploy ESET Server Security across the enterprise servers.
+- Created ESET policies for specific environments and use cases to ensure production performance was impacted as little as possible while maintaining security.
+- Coordinated several weeks of compatibility and stability testing before production deployment.
+- Integrated endpoint protection into the standard server onboarding process to ensure continued security coverage for newly provisioned systems.
+
+
+### 6. Vulnerability Management
+
+**Objective:** Improve identification, assessment, and tracking of cybersecurity vulnerabilities to provide a report back to leadership and stakeholders.
 
 **Contributions:**
 - Reviewed vulnerability advisories from trusted security sources.
@@ -71,16 +89,15 @@ This portfolio highlights selected security initiatives and technical projects t
 - Developed methods for organizing remediation efforts.
 - Communicated security risks and priorities to stakeholders.
 
-**Skills:** Vulnerability Management, Risk Assessment, Remediation Coordination
 
 ## Technical Experience
 
-**Security:** Duo, ESET Protect, Arctic Wolf MDR, Microsoft Entra ID
+**Security:** Duo MFA, ESET Protect, Arctic Wolf MDR, Microsoft Entra ID
 
-**Infrastructure:** Windows Server, Active Directory, VMware, Microsoft Exchange
+**Infrastructure:** Windows Server, Active Directory, VMware vCenter, Microsoft Exchange, Veeam Backup and Replication
 
 **Administration & Automation:** PowerShell, Group Policy, Security Auditing
 
 ## Confidentiality
 
-All case studies are generalized representations of professional experience. Sensitive infrastructure information, proprietary configurations, and confidential organizational materials are intentionally excluded.
+All provided examples of work are generalized representations of professional experience. Sensitive infrastructure information, proprietary configurations, and confidential organizational materials are intentionally excluded.
